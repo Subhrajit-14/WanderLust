@@ -32,7 +32,7 @@ cookies
 doenv
 cloudinary and etc..
 Author :
-Akash Deep Email: subhrajitswain1678@gmail.com
+Subhrajit Swain Email: subhrajitswain1678@gmail.com
 
 Website Link :
 https://wanderlust-project-4pj6.onrender.com/listings
